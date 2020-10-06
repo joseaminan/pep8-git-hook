@@ -35,4 +35,4 @@ If you want to select only specific codes to scan for, use the
 ```select_codes``` list.
 Additional arguments to the pycodestyle program (e.g., ```--max-line-length=120```) can be added to the ```overrides``` list.
 
-This code was forked from [https://gist.github.com/810399](https://gist.github.com/810399).
+This code was forked from cbrueffer/pep8-git-hook.
